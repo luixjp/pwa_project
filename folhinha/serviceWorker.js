@@ -22,8 +22,16 @@ const PRECACHE_URLS = [
     // 'path_do_seu_arquivo_cache.css'
     //   './', // Alias for index.html
       'index.html',
-      'pagina2.html',
-    //   '../../styles/main.css',
+      'asserts/css/style.css',
+      'asserts/css/principal.css',
+      'asserts/imagens/*.jpeg',
+      'asserts/imagens/*.jpg',
+      'asserts/imagens/*.png',
+      'asserts/logos/*.png',
+      'asserts/dist/css/*.css',
+      'asserts/dist/css/*.map',
+      'asserts/dist/js/*.js',
+      'asserts/dist/js/*.map'
     //   'demo.js'
 ];
 
